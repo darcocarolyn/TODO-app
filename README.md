@@ -8,3 +8,4 @@ The Register screen allows users to input their personal information and registe
 
 As mentioned earlier, the TODO screen allows users to add, edit, delete and mark tasks as completed or not. They can also filter their to-do list by selecting the buttons: All, Completed, or Not Completed, which will filter the items accordingly based on the completed boolean, or they can search in the filter bar which will show any items that contain the same characters that the user inputs in the text field. In addition, the app displays the username of the user’s account and the current date to help the user keep track of their todo list. There is also a Sign Out button which will return the user to the Login screen.
 
+Link to GitHub Pages: https://darcocarolyn.github.io/todo-app/
